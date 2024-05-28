@@ -1,3 +1,5 @@
+**Climate and Economic Justice**
+
 Rutgers University Data Structures Assignment
 Problem by Navya Sharma
 
